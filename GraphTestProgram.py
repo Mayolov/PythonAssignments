@@ -1,3 +1,7 @@
+#Mayolo Valencia
+# This is program that makes a graph for a report 
+# in my Engineering10 class. Still working on it as
+# of 10/10/2022
 import matplotlib.pyplot as plt
 
 # reverses a list
